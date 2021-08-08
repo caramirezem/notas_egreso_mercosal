@@ -5,7 +5,7 @@ include 'Invoice.php';
 $invoice = new Invoice();
 $invoice->checkLoggedIn();
 ?>
-<title>baulphp : Sistema facturación PHP & MySQL</title>
+<title>baulphp : Sistema facturación PHP & MySQL editado Carlos Ramírez</title>
 <script src="js/invoice.js"></script>
 <link href="css/style.css" rel="stylesheet">
 <?php include('container.php');?>
